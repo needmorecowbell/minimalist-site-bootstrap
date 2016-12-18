@@ -1,0 +1,71 @@
+
+body {
+    background-color:white;
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+.portfolio-item p{
+    color:black;
+}
+footer {
+    margin: 50px 0;
+    background-color:white;
+}
+footer p{
+    color:black;
+}
+.page-header{
+    color:white;
+}
+
+.navbar{
+    background-color:white;
+}
+.navbar-nav a{
+    color:black;
+}
+
+
+
+
+blockquote{
+    border-left:none
+}
+
+.quote-badge{
+    background-color: rgba(0, 0, 0, 0.2);   
+}
+
+.quote-box{
+    
+    overflow: hidden;
+    margin-top: -50px;
+    padding-top: -100px;
+    border-radius: 17px;
+    background-color: #4ADAE8;
+    margin-top: 25px;
+    color:white;
+    width: 325px;
+    box-shadow: 2px 2px 2px 2px black;
+    
+}
+
+.quotation-mark{
+    
+    margin-top: -10px;
+    font-weight: bold;
+    font-size:100px;
+    color:white;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+}
+
+.quote-text{
+    
+    font-size: 19px;
+    margin-top: -65px;
+}
